@@ -65,6 +65,16 @@
   - [Camunda7-集群部署的分析](./流程引擎/Camunda/Camunda7-集群部署的分析.md)
 
 # 身份认证
+- [OAuth 2.0协议简析](./身份认证/OAuth2.0协议简析.md)
 
 - [CAS]()
   - [CAS5.3-自定义准备](./身份认证/CAS/CAS5.3-自定义准备.md)
+  - [CAS5.3-启动运行](./身份认证/CAS/CAS5.3-启动运行.md)
+  - [CAS5.3-自定义数据库完成身份验证](./身份认证/CAS/CAS5.3-自定义数据库完成身份验证.md)
+  - [CAS5.3-自定义Handler实现验证码](./身份认证/CAS/CAS5.3-自定义Handler实现验证码.md)
+  - [CAS5.3-基于JWT认证](./身份认证/CAS/CAS5.3-基于JWT认证.md)
+  - [CAS5.3-Restful方式认证](./身份认证/CAS/CAS5.3-Restful方式认证.md)
+  - [CAS5.3-Springboot集成客户端验证](./身份认证/CAS/CAS5.3-Springboot集成客户端验证.md)
+  - [CAS5.3-自定义通过JWT获取TGT](./身份认证/CAS/CAS5.3-自定义通过JWT获取TGT.md)
+  - [CAS5.3-登录验证的过程](./身份认证/CAS/CAS5.3-登录验证的过程.md)
+  - [CAS5.3-支持OAuth2.0](./身份认证/CAS/CAS5.3-支持OAuth2.0.md)
