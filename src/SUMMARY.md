@@ -57,6 +57,9 @@
   - [Flowable6-升级初体验](./流程引擎/Flowable/Flowable6-升级初体验.md)
   - [Flowable6–删除流程](./流程引擎/Flowable/Flowable6–删除流程.md)
   - [Flowable6–异步执行器](./流程引擎/Flowable/Flowable6–异步执行器.md)
+  - [Flowable6.6-动态增加节点](./流程引擎/Flowable/Flowable6.6-动态增加节点.md)
+  - [Flowable6.6-自定义Cmd动态增加节点](./流程引擎/Flowable/Flowable6.6-自定义Cmd动态增加节点.md)
+  - [Flowable6.6-调用自定义Cmd动态增加节点](./流程引擎/Flowable/Flowable6.6-调用自定义Cmd动态增加节点.md)
 
 - [Camunda]()
   - [Camunda7-从completeTask看pvm](./流程引擎/Camunda/Camunda7-从completeTask看pvm.md)
