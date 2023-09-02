@@ -73,6 +73,15 @@
   - [Camunda7-解析多实例UserTask节点Behavior执行过程](./流程引擎/Camunda/Camunda7-解析多实例UserTask节点Behavior执行过程.md)
   - [Camunda7-集群部署的分析](./流程引擎/Camunda/Camunda7-集群部署的分析.md)
 
+# 消息队列
+
+- [RocketMQ]()
+  - [RocketMQ-入门](./消息队列/RocketMQ/RocketMQ-入门.md)
+  - [RocketMQ-事务消息](./消息队列/RocketMQ/RocketMQ-事务消息.md)
+  - [RocketMQ-消费者异常处理和图形化监控](./消息队列/RocketMQ/RocketMQ-消费者异常处理和图形化监控.md)
+  - [RocketMQ-与SpringCloudStream结合](./消息队列/RocketMQ/RocketMQ-与SpringCloudStream结合.md)
+  - [Cursor-探寻CommitLog的创建时机](./消息队列/RocketMQ/Cursor-探寻CommitLog的创建时机.md)
+
 # 身份认证
 - [OAuth 2.0协议简析](./身份认证/OAuth2.0协议简析.md)
 
