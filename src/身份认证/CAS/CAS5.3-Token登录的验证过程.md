@@ -1,7 +1,9 @@
+# CAS5.3-Token登录的验证过程 | 字痕随行
+
 之前也写过登录验证的过程，这章专门来分析使用Token时登录的验证过程。
 
 其实用两张图就大概能够说明整个过程了，下面是**第一张图**，验证过程触发点：
-![image](./assets/CAS5.3-Token登录的验证过程/GINjxdBGEA6JBxuBeG-EBlReAiLv2Md__z6USg-KiiY.png)
+![image](../../images/CAS5.3-Token登录的验证过程/GINjxdBGEA6JBxuBeG-EBlReAiLv2Md__z6USg-KiiY.png)
 
 整个过程的配置类是：
 ```java
@@ -37,7 +39,7 @@ public Action remoteUserAuthenticationAction() {
 }
 ```
 然后看**第二张图**就可以了：
-![image](./assets/CAS5.3-Token登录的验证过程/M7xzNlj500mEiE8F95_OmaVxs4Up6dwu6NAXldRjfl8.png)
+![image](../../images/CAS5.3-Token登录的验证过程/M7xzNlj500mEiE8F95_OmaVxs4Up6dwu6NAXldRjfl8.png)
 
 其中authenticateInternal()是最关键方法，会循环调用注册过的验证方法：
 ```java
@@ -68,3 +70,7 @@ protected AuthenticationBuilder authenticateInternal(final AuthenticationTransac
 }
 ```
 这里只描述了验证失败的情况，在成功的情况下只是不会走后面的登录流程而已。
+
+![image](../../images/公众号.jpg)
+
+觉的不错？可以关注我的公众号↑↑↑
