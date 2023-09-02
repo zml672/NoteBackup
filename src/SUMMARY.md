@@ -96,5 +96,5 @@
   - [CAS5.3-自定义通过JWT获取TGT](./身份认证/CAS/CAS5.3-自定义通过JWT获取TGT.md)
   - [CAS5.3-登录验证的过程](./身份认证/CAS/CAS5.3-登录验证的过程.md)
   - [CAS5.3-支持OAuth2.0](./身份认证/CAS/CAS5.3-支持OAuth2.0.md)
-  - [CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析](./身份认证/CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析.md)
+  - [CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析](./身份认证/CAS/CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析.md)
   - [CAS5.3-Token登录的验证过程](./身份认证/CAS/CAS5.3-Token登录的验证过程.md)
