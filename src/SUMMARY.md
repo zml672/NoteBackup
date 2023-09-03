@@ -109,3 +109,21 @@
   - [CAS5.3-支持OAuth2.0](./身份认证/CAS/CAS5.3-支持OAuth2.0.md)
   - [CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析](./身份认证/CAS/CAS5.3-Nginx转发OAuth2.0请求导致验证失败的问题分析.md)
   - [CAS5.3-Token登录的验证过程](./身份认证/CAS/CAS5.3-Token登录的验证过程.md)
+
+# DotNet
+
+- [Lync]()
+  - [聊聊Lync二次开发](./DotNet/Lync/聊聊Lync二次开发.md)
+  - [LyncServer2013标准版安装部署](./DotNet/Lync/LyncServer2013标准版安装部署.md)
+  - [Lync开发-基础](./DotNet/Lync/Lync开发-基础.md)
+  - [LYNC开发-GetClient()](./DotNet/Lync/LYNC开发-GetClient().md)
+  - [LYNC开发-登录](./DotNet/Lync/LYNC开发-登录.md)
+  - [LYNC开发-Contact](./DotNet/Lync/LYNC开发-Contact.md)
+  - [Lync开发-Conversation](./DotNet/Lync/Lync开发-Conversation.md)
+  - [UCMA开发-基础](./DotNet/Lync/UCMA开发-基础.md)
+  - [聊聊Lync二次UCMA开发-总览介绍开发](./DotNet/Lync/UCMA开发-总览介绍.md)
+  - [UCMA开发-SipEndPoint](./DotNet/Lync/UCMA开发-SipEndPoint.md)
+  - [UCMA开发-SignalingSession](./DotNet/Lync/UCMA开发-SignalingSession.md)
+  - [UCMA开发-ConnectionManager](./DotNet/Lync/UCMA开发-ConnectionManager.md)
+  - [UCMA开发-互动消息机器人的实现](./DotNet/Lync/UCMA开发-互动消息机器人的实现.md)
+  - [UCMA开发-自动回复机器人](./DotNet/Lync/UCMA开发-自动回复机器人.md)
