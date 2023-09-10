@@ -127,3 +127,13 @@
   - [UCMA开发-ConnectionManager](./DotNet/Lync/UCMA开发-ConnectionManager.md)
   - [UCMA开发-互动消息机器人的实现](./DotNet/Lync/UCMA开发-互动消息机器人的实现.md)
   - [UCMA开发-自动回复机器人](./DotNet/Lync/UCMA开发-自动回复机器人.md)
+
+- [AD]()
+  - [DotNET与AD-基础](./DotNet/AD/DotNET与AD-基础.md)
+  - [DotNET与AD-名词解释](./DotNet/AD/DotNET与AD-名词解释.md)
+  - [DotNET与AD-常用属性](./DotNet/AD/DotNET与AD-常用属性.md)
+  - [DotNET与AD-构建开发环境](./DotNet/AD/DotNET与AD-构建开发环境.md)
+  - [DotNET与AD-连接与查询](./DotNet/AD/DotNET与AD-连接与查询.md)
+  - [DotNET与AD-验证用户名和密码(1)](./DotNet/AD/DotNET与AD-验证用户名和密码(1).md)
+  - [DotNET与AD-验证用户名和密码(2)](./DotNet/AD/DotNET与AD-验证用户名和密码(2).md)
+  - [开启Exchange账户](./DotNet/AD/开启Exchange账户.md)
