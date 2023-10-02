@@ -81,6 +81,7 @@
   - [RocketMQ-消费者异常处理和图形化监控](./消息队列/RocketMQ/RocketMQ-消费者异常处理和图形化监控.md)
   - [RocketMQ-与SpringCloudStream结合](./消息队列/RocketMQ/RocketMQ-与SpringCloudStream结合.md)
   - [Cursor-探寻CommitLog的创建时机](./消息队列/RocketMQ/Cursor-探寻CommitLog的创建时机.md)
+  - [Rocketmq5.1.x-开发环境配置和使用](./消息队列/RocketMQ/Rocketmq5.1.x-开发环境配置和使用.md)
 
 # 微服务
 
